@@ -1,2 +1,2 @@
 # Projetos
-Git referente a projetos desenvolvidos por Eduaro Friaza.
+Git referente a projetos desenvolvidos por Eduardo Friaza.
